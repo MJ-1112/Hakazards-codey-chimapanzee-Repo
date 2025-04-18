@@ -1,0 +1,27 @@
+❓ Frequently Asked Questions (FAQs)
+1. What is this platform about?
+We’ve built a blockchain-based gaming platform that integrates Web3 features like NFTs, token rewards, and decentralized gameplay. Our goal is to let players truly own their in-game assets and enjoy a next-gen gaming experience.
+
+2. What blockchain does this project use?
+Our platform is built on the Monad Testnet, a high-performance blockchain designed for scalable and efficient smart contract execution.
+
+3. Do I need a crypto wallet to play?
+Yes. Since our platform is Web3-integrated, you’ll need a wallet (like MetaMask or a Monad-compatible wallet) to interact with the games, store NFTs, and receive rewards.
+
+4. Is it free to play?
+Absolutely! Most features are free on the testnet. You can explore the platform, try out the games, and test Web3 functionalities without spending real money.
+
+5. What kind of games are on the platform?
+Currently, we’re focusing on blockchain-based mini-games with NFT integration and token rewards. We're constantly building and experimenting, so expect new content regularly!
+
+6. What is the Monad Testnet?
+Monad is a high-speed, scalable blockchain that supports smart contracts. We’re using its testnet for development and experimentation, which means all activity is gas-free and risk-free for users right now.
+
+7. Can I earn real money from the platform?
+Since this is on a testnet, rewards don’t have real-world value yet. However, the structure is designed to easily shift into a mainnet setup in the future, where real earning potential exists.
+
+8. Is this project open-source or still in development?
+The platform is still in active development—designed and maintained by a team of four college students. We’re learning, building, and improving every day!
+
+9. How can I stay updated or give feedback?
+You can follow us on [Twitter/Discord/LinkedIn – insert links] or use the contact form on our website. We’d love to hear your thoughts!
